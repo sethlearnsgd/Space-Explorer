@@ -537,7 +537,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Space Explorer
+  m_text: space explorer
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
   m_sharedMaterial: {fileID: 3322719172665953820, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
@@ -788,7 +788,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Play
+  m_text: play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
   m_sharedMaterial: {fileID: 3322719172665953820, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
@@ -815,8 +815,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 43
-  m_fontSizeBase: 43
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

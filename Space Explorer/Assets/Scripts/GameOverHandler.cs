@@ -27,7 +27,7 @@ public class GameOverHandler : MonoBehaviour
 
         int finalScore = scoreSystem.StopCounting();
 
-        gameOverText.text = $"Your Score: {finalScore}";
+        gameOverText.text = $"your score: {finalScore}";
     }
 
     public void PlayAgainButton()

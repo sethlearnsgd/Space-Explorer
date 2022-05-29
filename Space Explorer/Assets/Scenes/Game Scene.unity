@@ -5357,7 +5357,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Play Again
+  m_text: play again
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
   m_sharedMaterial: {fileID: 3322719172665953820, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
@@ -6117,7 +6117,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Game Over!
+  m_text: game over!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
   m_sharedMaterial: {fileID: 3322719172665953820, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
@@ -6144,8 +6144,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6695,7 +6695,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1153481413
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6834,7 +6834,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Main Menu
+  m_text: main menu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
   m_sharedMaterial: {fileID: 3322719172665953820, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
@@ -7850,7 +7850,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Quit
+  m_text: quit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
   m_sharedMaterial: {fileID: 3322719172665953820, guid: 86fc597c75017594798d27767c68d3e7, type: 2}
